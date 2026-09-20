@@ -1,8 +1,8 @@
 <div align="center">
 
-# RoboVante — Line Follower Robot (OBR) 🤖
+# NERV Robotics — Line Follower Robot (OBR) 🤖
 
-**Autonomous line-following robot developed by team RoboVante for the Brazilian Robotics Olympiad (OBR), representing the state of Bahia.**
+**Autonomous line-following robot developed by team NERV Robotics for the Brazilian Robotics Olympiad (OBR), representing the state of Bahia.**
 
 ![Contributors](https://img.shields.io/github/contributors/OrekiHoutarouu/HandTune?style=plastic)
 ![Forks](https://img.shields.io/github/forks/OrekiHoutarouu/HandTune)
@@ -37,7 +37,7 @@
 
 OBR (*Olimpíada Brasileira de Robótica* — Brazilian Robotics Olympiad) is a national science competition that encourages the study of robotics and programming among Brazilian students, with both theoretical and practical stages — including the **Line Follower** category, in which this robot competes.
 
-This repository holds the full onboard software for team **RoboVante**'s robot: a line follower that uses **computer vision** (webcam + OpenCV) to interpret the track in real time, paired with a hardware communication framework (**OpenRDK**) to drive the motors. The robot follows the track's black line, reads green markings to decide which way to go at intersections, recognizes the red finish marking, and handles gaps in the line.
+This repository holds the full onboard software for team **NERV Robotics**' robot: a line follower that uses **computer vision** (webcam + OpenCV) to interpret the track in real time, paired with a hardware communication framework (**OpenRDK**) to drive the motors. The robot follows the track's black line, reads green markings to decide which way to go at intersections, recognizes the red finish marking, and handles gaps in the line.
 
 ## Features ✨
 
@@ -213,6 +213,6 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ## Team 👥
 
-Developed by team **RoboVante**, representing Bahia at the Brazilian Robotics Olympiad (OBR).
+Developed by team **NERV Robotics**, representing Bahia at the Brazilian Robotics Olympiad (OBR).
 
 **Author:** [@OrekiHoutarouu](https://github.com/OrekiHoutarouu)
